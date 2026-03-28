@@ -1,0 +1,41 @@
+{
+    "type": "filament",
+    "name": "Bambu TPU 95A 0.8 @A1",
+    "inherits": "Bambu TPU 95A @base",
+    "from": "User",
+    "instantiation": "true",
+    "filament_max_volumetric_speed": [
+        "5.5"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "15"
+    ],
+    "filament_deretraction_speed": [
+        "15"
+    ],
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "filament_settings_id": "Bambu TPU 95A 0.8 @A1",
+    "compatible_printers": [
+        "Bambu Lab A1 0.8 nozzle"
+    ]
+}
