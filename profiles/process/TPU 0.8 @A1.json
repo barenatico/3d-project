@@ -72,6 +72,22 @@
     "travel_speed": [
         "300"
     ],
+    "support_bottom_interface_spacing": "0.5",
+    "support_bottom_z_distance": "0.36",
+    "support_interface_bottom_layers": "1",
+    "support_interface_top_layers": "1",
+    "support_interface_spacing": "0.5",
+    "support_interface_speed": [
+        "35"
+    ],
+    "support_line_width": "0.82",
+    "support_speed": [
+        "40"
+    ],
+    "support_style": "default",
+    "support_base_pattern": "rectilinear",
+    "support_base_pattern_spacing": "4",
+    "support_top_z_distance": "0.36",
     "version": "2.4.0.10",
     "wall_generator": "arachne"
 }
