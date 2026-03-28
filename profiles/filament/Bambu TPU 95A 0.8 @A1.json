@@ -1,9 +1,7 @@
 {
-    "type": "filament",
-    "name": "Bambu TPU 95A 0.8 @A1",
-    "inherits": "Bambu TPU 95A @base",
     "from": "User",
-    "instantiation": "true",
+    "inherits": "Bambu TPU 95A @BBL A1",
+    "name": "Bambu TPU 95A 0.8 @A1",
     "filament_max_volumetric_speed": [
         "5.5"
     ],
@@ -34,8 +32,8 @@
     "textured_plate_temp_initial_layer": [
         "45"
     ],
-    "filament_settings_id": "Bambu TPU 95A 0.8 @A1",
-    "compatible_printers": [
-        "Bambu Lab A1 0.8 nozzle"
-    ]
+    "filament_settings_id": [
+        "Bambu TPU 95A 0.8 @A1"
+    ],
+    "version": "2.4.0.10"
 }
