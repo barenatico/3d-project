@@ -1,0 +1,76 @@
+{
+    "bottom_shell_layers": "2",
+    "default_acceleration": [
+        "10000"
+    ],
+    "detect_narrow_internal_solid_infill": "0",
+    "enable_arc_fitting": "0",
+    "enable_overhang_speed": [
+        "1"
+    ],
+    "enable_prime_tower": "0",
+    "ensure_vertical_shell_thickness": "disabled",
+    "from": "User",
+    "gap_infill_speed": [
+        "350"
+    ],
+    "inherits": "0.20mm Standard @BBL A1",
+    "initial_layer_print_height": "0.28",
+    "inner_wall_acceleration": [
+        "10000"
+    ],
+    "internal_solid_infill_line_width": "0.48",
+    "internal_solid_infill_speed": [
+        "350"
+    ],
+    "is_infill_first": "1",
+    "layer_height": "0.36",
+    "line_width": "0.48",
+    "name": "Botão TD",
+    "only_one_wall_first_layer": "1",
+    "outer_wall_acceleration": [
+        "8000"
+    ],
+    "outer_wall_line_width": "0.45",
+    "outer_wall_speed": [
+        "300"
+    ],
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "Botão TD",
+    "role_base_wipe_speed": "0",
+    "seam_slope_conditional": "0",
+    "seam_slope_inner_walls": "0",
+    "seam_slope_steps": "5",
+    "skeleton_infill_density": "5%",
+    "skeleton_infill_line_width": "0.5",
+    "skin_infill_density": "5%",
+    "skin_infill_line_width": "0.5",
+    "sparse_infill_acceleration": [
+        "10000"
+    ],
+    "sparse_infill_density": "5%",
+    "sparse_infill_line_width": "0.5",
+    "sparse_infill_speed": [
+        "400"
+    ],
+    "top_shell_layers": "2",
+    "top_surface_acceleration": [
+        "7000"
+    ],
+    "top_surface_line_width": "0.45",
+    "top_surface_speed": [
+        "300"
+    ],
+    "travel_speed": [
+        "500"
+    ],
+    "version": "2.3.0.2",
+    "vertical_shell_speed": [
+        "100%"
+    ]
+}
