@@ -1,0 +1,60 @@
+{
+    "additional_cooling_fan_speed": [
+        "100"
+    ],
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "100"
+    ],
+    "filament_deretraction_speed": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "28"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_speed": [
+        "50"
+    ],
+    "filament_settings_id": [
+        "Filamento Bricks 0.8"
+    ],
+    "filament_z_hop": [
+        "0.3"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA @BBL A1",
+    "name": "Filamento Bricks 0.8",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "2.4.0.10"
+}

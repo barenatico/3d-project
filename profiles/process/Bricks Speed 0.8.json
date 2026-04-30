@@ -1,0 +1,98 @@
+{
+    "bridge_speed": [
+        "80"
+    ],
+    "brim_object_gap": "0.15",
+    "brim_type": "no_brim",
+    "brim_width": "3",
+    "default_acceleration": [
+        "10000"
+    ],
+    "elefant_foot_compensation": "0.1",
+    "enable_overhang_speed": [
+        "0"
+    ],
+    "enable_prime_tower": "0",
+    "from": "User",
+    "inherits": "0.40mm Standard @BBL A1 0.8 nozzle",
+    "initial_layer_acceleration": [
+        "1000"
+    ],
+    "initial_layer_infill_speed": [
+        "70"
+    ],
+    "initial_layer_line_width": "1",
+    "initial_layer_speed": [
+        "50"
+    ],
+    "inner_wall_acceleration": [
+        "5000"
+    ],
+    "inner_wall_line_width": "1",
+    "inner_wall_speed": [
+        "300"
+    ],
+    "internal_solid_infill_line_width": "1",
+    "internal_solid_infill_speed": [
+        "300"
+    ],
+    "is_infill_first": "1",
+    "layer_height": "0.48",
+    "line_width": "1",
+    "name": "Bricks Speed 0.8",
+    "outer_wall_line_width": "0.9",
+    "outer_wall_speed": [
+        "250"
+    ],
+    "prime_tower_infill_gap": "100%",
+    "prime_tower_rib_wall": "0",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "Bricks Speed 0.8",
+    "resolution": "0.008",
+    "role_base_wipe_speed": "0",
+    "seam_position": "nearest",
+    "seam_slope_conditional": "0",
+    "seam_slope_inner_walls": "0",
+    "skeleton_infill_density": "20%",
+    "skeleton_infill_line_width": "1",
+    "skin_infill_density": "20%",
+    "skin_infill_line_width": "1",
+    "small_perimeter_speed": [
+        "30"
+    ],
+    "small_perimeter_threshold": [
+        "25"
+    ],
+    "smooth_speed_discontinuity_area": "0",
+    "sparse_infill_acceleration": [
+        "10000"
+    ],
+    "sparse_infill_density": "20%",
+    "sparse_infill_line_width": "1",
+    "sparse_infill_speed": [
+        "300"
+    ],
+    "support_interface_speed": [
+        "20"
+    ],
+    "support_line_width": "1",
+    "support_speed": [
+        "30"
+    ],
+    "top_shell_layers": "5",
+    "top_surface_acceleration": [
+        "5000"
+    ],
+    "top_surface_line_width": "1",
+    "top_surface_speed": [
+        "250"
+    ],
+    "version": "2.4.0.10",
+    "wall_generator": "arachne",
+    "xy_hole_compensation": "0.11"
+}
