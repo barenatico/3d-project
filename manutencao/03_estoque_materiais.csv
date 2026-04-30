@@ -1,0 +1,24 @@
+Categoria,Item,Quantidade sugerida (4 maquinas),Frequencia de uso,Observacoes
+Limpeza,IPA 90% ou 99%,1 litro,Diario,Borrifador para distribuir
+Limpeza,Pano microfibra sem fiapos,10 unidades,Diario,Lavar e reutilizar
+Limpeza,Papel toalha sem fiapos (Scott Plus ou similar),2 rolos,Diario,
+Limpeza,Detergente neutro (Ype),1 frasco,Semanal,
+Limpeza,Esponja macia (lado amarelo),4 unidades,Semanal,Uma por maquina ideal
+Limpeza,Cotonetes,1 caixa,Semanal,Para lidar e graxa
+Limpeza,Ar comprimido em lata,2 latas,Semanal,
+Limpeza,Pincel pequeno macio,2 unidades,Semanal,Limpeza de fans e engrenagem
+Limpeza,Aspirador pequeno (de boca),1 unidade,Trimestral,Pode ser de mesa
+Lubrificacao,Graxa Super Lube ou Bambu oficial,1 tubo,Mensal,Tubo dura ~1 ano
+Ferramentas,Jogo de chaves allen,1 jogo,Sempre,A1 usa varios tamanhos
+Ferramentas,Chave de boca para nozzle (vem com a A1),1 unidade,Trimestral,
+Ferramentas,Escova de latao,2 unidades,Diario,NUNCA escova de aco
+Ferramentas,Luva termica,2 pares,Diario,Para hotend quente
+Ferramentas,Lupa ou celular com macro,1 unidade,Mensal,Inspecao visual
+Pecas de desgaste,Nozzle 0.4mm Bambu original,8 unidades,Trimestral,2 por maquina (1 em uso + 1 reserva)
+Pecas de desgaste,Nozzle 0.8mm Bambu original,4 unidades,Semestral,1 por maquina como reserva
+Pecas de desgaste,Silicone sock A1,8 unidades,Semestral,2 por maquina
+Pecas de desgaste,Cabo flat toolhead A1,4 unidades,Anual,Comprar pelo menos 2 de reserva
+Pecas de desgaste,Build plate textured PEI,4 unidades,Semestral/Anual,1 reserva pronto para troca
+Pecas de desgaste,Fan hotend A1,2 unidades,Anual,Reserva critica
+Pecas de desgaste,Fan part cooling A1,2 unidades,Anual,Reserva
+Consumiveis,PLA dedicado para cold pull,1 rolo,Semestral,Pode ser sobra de outros prints
